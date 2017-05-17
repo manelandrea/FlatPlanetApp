@@ -1,0 +1,60 @@
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Core.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Core.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.dll.config
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.dll.config
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Core.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Core.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.dll.config
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Data.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Core.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\Project.Core.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Data\obj\Debug\Project.Data.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\Project.Data.dll.config
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\Project.Data.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\Project.Data.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\EntityFramework.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\Project.Core.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\Project.Core.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\EntityFramework.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\obj\Debug\Project.Data.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Data\obj\Debug\Project.Data.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\Project.Data.dll.config
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\Project.Data.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\Project.Data.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\EntityFramework.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\Project.Core.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\Project.Core.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\EntityFramework.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\obj\Debug\Project.Data.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Data\obj\Debug\Project.Data.pdb

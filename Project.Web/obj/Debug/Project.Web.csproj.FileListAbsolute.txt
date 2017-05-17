@@ -1,0 +1,532 @@
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ApplicationInsights.config
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\csc.exe
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\vbc.exe
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.dll.config
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Web.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Newtonsoft.Json.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Helpers.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Mvc.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Razor.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Web.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Razor.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Helpers.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Mvc.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Newtonsoft.Json.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Common.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Core.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Data.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Service.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\WebActivatorEx.dll
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Core.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Data.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Service.pdb
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Common.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.xml
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+D:\WEB API PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\WebApiContrib.IoC.Ninject.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ApplicationInsights.config
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\csc.exe
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\vbc.exe
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.dll.config
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Web.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Newtonsoft.Json.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Common.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Core.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Data.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Service.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Helpers.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Mvc.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Razor.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\WebActivatorEx.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\WebApiContrib.IoC.Ninject.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Core.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Data.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Service.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Web.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Common.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Razor.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Helpers.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Mvc.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Newtonsoft.Json.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Cors.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.Cors.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.Cors.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.Edm.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.OData.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Spatial.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.OData.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.Edm.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.OData.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Spatial.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.OData.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\de\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\es\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\fr\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\it\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ja\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ko\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\ru\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\AutoMapper.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\AutoMapper.xml
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Omu.ValueInjecter.dll
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Omu.ValueInjecter.pdb
+D:\WEB API PROJECTS\TEMPLATE PROJECTS\RepositoryPattern\TemplateProject\Project.Web\bin\Omu.ValueInjecter.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ApplicationInsights.config
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\csc.exe
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\vbc.exe
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.dll.config
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Web.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\AutoMapper.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Web.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.Edm.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.OData.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Newtonsoft.Json.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Common.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Omu.ValueInjecter.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Core.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Data.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Service.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Spatial.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Cors.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Helpers.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.Cors.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.OData.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Mvc.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Razor.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\WebActivatorEx.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\WebApiContrib.IoC.Ninject.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Core.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Data.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Project.Service.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\AutoMapper.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.Web.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.Edm.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Microsoft.Data.OData.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Common.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Omu.ValueInjecter.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Omu.ValueInjecter.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Spatial.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.Cors.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.OData.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Razor.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Helpers.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Mvc.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\Newtonsoft.Json.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.xml
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\de\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\es\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\it\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\de\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\es\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\fr\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\it\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ja\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ko\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ru\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\de\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\es\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\fr\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\it\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ja\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ko\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\ru\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hans\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\bin\zh-Hant\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.dll
+E:\PROGRAMMING\Template Projects\RepositoryPattern\TemplateProject\Project.Web\obj\Debug\Project.Web.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ApplicationInsights.config
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\csc.exe
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\vbc.exe
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Web.dll.config
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Web.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Web.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\AutoMapper.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\EntityFramework.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.Web.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.Data.Edm.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.Data.OData.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Newtonsoft.Json.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Ninject.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Ninject.Web.Common.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Omu.ValueInjecter.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Core.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Data.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Service.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Spatial.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Cors.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Helpers.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.Cors.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.OData.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Mvc.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Razor.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Webpages.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\WebActivatorEx.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\WebApiContrib.IoC.Ninject.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Core.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Data.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Project.Service.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\AutoMapper.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\EntityFramework.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.Web.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.ApplicationInsights.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.Data.Edm.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Microsoft.Data.OData.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Ninject.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Ninject.Web.Common.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Ninject.Web.Mvc.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Omu.ValueInjecter.pdb
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Omu.ValueInjecter.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Spatial.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.Cors.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.OData.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Razor.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Webpages.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Webpages.Deployment.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Webpages.Razor.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Helpers.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Mvc.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\Newtonsoft.Json.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Net.Http.Formatting.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\System.Web.Http.WebHost.xml
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\de\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\es\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\it\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\de\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\es\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\fr\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\it\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ja\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ko\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ru\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\de\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\es\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\fr\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\it\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ja\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ko\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\ru\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\zh-Hans\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\bin\zh-Hant\System.Spatial.resources.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\obj\Debug\Project.Web.dll
+E:\PROGRAMMING\Template Projects\RepositoryPatternNEW\TemplateProject\Project.Web\obj\Debug\Project.Web.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ApplicationInsights.config
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\csc.exe
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\vbc.exe
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\VBCSCompiler.exe
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Web.dll.config
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Web.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Web.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\AutoMapper.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\EntityFramework.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.Web.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.ApplicationInsights.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.Data.Edm.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.Data.OData.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Newtonsoft.Json.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Ninject.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Ninject.Web.Common.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Ninject.Web.Mvc.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Omu.ValueInjecter.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Core.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Data.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Service.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Net.Http.Formatting.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Spatial.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Cors.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Helpers.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.Cors.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.OData.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.WebHost.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Mvc.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Razor.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Webpages.Deployment.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Webpages.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Webpages.Razor.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\WebActivatorEx.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\WebApiContrib.IoC.Ninject.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Core.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Data.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Project.Service.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\AutoMapper.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\EntityFramework.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.Web.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.ApplicationInsights.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.Data.Edm.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Microsoft.Data.OData.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Ninject.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Ninject.Web.Common.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Ninject.Web.Mvc.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Omu.ValueInjecter.pdb
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Omu.ValueInjecter.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Spatial.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.Cors.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.OData.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Razor.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Webpages.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Webpages.Deployment.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Webpages.Razor.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Helpers.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Mvc.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\Newtonsoft.Json.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Net.Http.Formatting.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\System.Web.Http.WebHost.xml
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\de\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\es\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\it\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\de\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\es\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\fr\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\it\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ja\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ko\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ru\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\de\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\es\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\fr\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\it\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ja\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ko\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\ru\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\zh-Hans\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\bin\zh-Hant\System.Spatial.resources.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\obj\Debug\Project.Web.dll
+E:\PROGRAMMING\FlatPlanet Exam\FlatPlanetExam\Project.Web\obj\Debug\Project.Web.pdb
